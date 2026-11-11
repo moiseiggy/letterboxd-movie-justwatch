@@ -37,3 +37,6 @@ src/client/dist
 /playwright-report/
 /test-results/
 coverage/
+
+# Personal watchlist reports (scripts/watchlist-streaming.ts)
+watchlist-report*.html
